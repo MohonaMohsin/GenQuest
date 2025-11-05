@@ -7,13 +7,13 @@ This project demonstrates **OOP principles** and uses **Design Patterns** to kee
 
 ## Features
 
-- 🎮 **2-Player Turn-Based Gameplay** — take turns revealing cells.  
-- 💎 **Collect Gems** to increase your score.  
-- ⚡ **Bonus Cells** give extra points and an extra turn.  
-- 😈 **Traps** reduce points and add challenge.  
-- 🔁 **Restart Game** button to start a new round anytime.  
-- 🖥️ **Clean GUI** with fun emoji symbols.  
-- 👀 **Dynamic Scoreboard** updates in real time.  
+-  **2-Player Turn-Based Gameplay** — take turns revealing cells.  
+-  **Collect Gems** to increase your score.  
+-  **Bonus Cells** give extra points and an extra turn.  
+-  **Traps** reduce points and add challenge.  
+-  **Restart Game** button to start a new round anytime.  
+-  **Clean GUI** with fun emoji symbols.  
+-  **Dynamic Scoreboard** updates in real time.  
 
 ---
 
