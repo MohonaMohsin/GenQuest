@@ -1,6 +1,6 @@
 # GenQuest – Gem Collector Game
 
-**GenQuest is a thrilling 2-player Java Swing game where you explore a 4×4 grid, collect shiny Gems 💎, grab Bonus ⚡ points, and dodge tricky Traps 😈!**  
+**GenQuest is a 2-player Java Swing game where you explore a 4×4 grid, collect shiny Gems 💎, grab Bonus ⚡ points, and dodge tricky Traps 😈!**  
 This project demonstrates **OOP principles** and uses **Design Patterns** to keep the code modular and maintainable.  
 
 ---
