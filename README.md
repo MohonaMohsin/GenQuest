@@ -1,6 +1,6 @@
-# GenQuest – Gem Collector Game
+# GemQuest – Gem Collector Game
 
-**GenQuest is a 2-player Java Swing game where you explore a 4×4 grid, collect shiny Gems 💎, grab Bonus ⚡ points, and dodge tricky Traps 😈!**  
+**GemQuest is a 2-player Java Swing game where you explore a 4×4 grid, collect shiny Gems 💎, grab Bonus ⚡ points, and dodge tricky Traps 😈!**  
 This project demonstrates **OOP principles** and uses **Design Patterns** to keep the code modular and maintainable.  
 
 ---
@@ -20,7 +20,7 @@ This project demonstrates **OOP principles** and uses **Design Patterns** to kee
 ## 📁 Project Structure
 
 ```
-GenQuest/
+GemQuest/
 ├── App.java
 ├── GameManager.java
 ├── Cell.java
@@ -44,9 +44,9 @@ GenQuest/
 ##   Preview
 
 ### 💎 Game Interface
-Below is a screenshot of the GenQuest game in action:
+Below is a screenshot of the GemQuest game in action:
 
-![GenQuest](images/game-interface.png)
+![GemQuest](images/game-interface.png)
 
 - Click on cells to reveal **Gems 💎**, **Bonus ⚡**, **Traps 😈**, or **Empty ⬜** cells.  
 - **Bonus cells** give an extra turn and extra points.  
@@ -57,9 +57,9 @@ Below is a screenshot of the GenQuest game in action:
 
 ## How to Run
 
-Follow these steps to run Themed Tic-Tac-Toe:
+Follow these steps to run GemQuest:
 
-1. **Open Terminal / Git Bash / Command Prompt** in the project folder  `GenQuest`.
+1. **Open Terminal / Git Bash / Command Prompt** in the project folder  `GemQuest`.
 
 2. **Compile all Java files** by running:
       
